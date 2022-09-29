@@ -1,10 +1,10 @@
-# [Material Dashboard Pro Laravel](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//material-dashboard-pro-laravel.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
+# [Material Dashboard Pro Laravel](https://material-dashboard-pro-laravel-bs4.creative-tim.com/?ref=mdpl-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Material%20Dashboard%20Pro%20Laravel%E2%9D%A4%EF%B8%8F%0Ahttps%3A//material-dashboard-pro-laravel-bs4.creative-tim.com/%20%23%material%20%23design%20%23dashboard%20%23laravel%20%23pro%20via%20%40CreativeTim)
 
-![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-laravel/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-laravel-bs4.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel-bs4/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-laravel-bs4/ct-material-dashboard-pro-laravel.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-laravel-bs4/issues?q=is%3Aissue+is%3Aclosed)
 
 *Frontend version*: Material Dashboard v2.1.0. More info at https://www.creative-tim.com/product/material-dashboard-pro
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/material-dashboard-pro-laravel) 
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/material-dashboard-pro-laravel-bs4) 
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
@@ -320,7 +320,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?152113475" width="472px"/>](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme)| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg" width="485px" />](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme) |
+| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?152113475" width="472px"/>](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme)| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg" width="485px" />](https://material-dashboard-pro-laravel-bs4.creative-tim.com/?ref=mdl-readme) |
 
 | Vue | Vue & Laravel |
 | --- | --- |
@@ -330,15 +330,15 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | Register | Login | Dashboard |
 | --- | --- | ---  |
-| [![Register](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Register.png)](https://material-dashboard-pro-laravel.creative-tim.com/register?ref=mdl-readme)  | [![Login](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Login.png)](https://material-dashboard-pro-laravel.creative-tim.com/login?ref=mdl-readme)  | [![Dashboard](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Dashboard.png)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Register](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Register.png)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/register?ref=mdl-readme)  | [![Login](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Login.png)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/login?ref=mdl-readme)  | [![Dashboard](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Dashboard.png)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/?ref=mdl-readme)
 
 | Profile Page | Users Page | Tables Page  |
 | --- | --- | ---  |
-| [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Profile.png)](https://material-dashboard-pro-laravel.creative-tim.com/profile?ref=mdl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Users.png)](https://material-dashboard-pro-laravel.creative-tim.com/user?ref=mdl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Tables.png)](https://material-dashboard-pro-laravel.creative-tim.com/table-list?ref=mdl-readme)
-[View More](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Profile Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Profile.png)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/profile?ref=mdl-readme)  | [![Users Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Users.png)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/user?ref=mdl-readme) | [![Tables Page](https://github.com/creativetimofficial/public-assets/raw/master/material-dashboard-pro-laravel/Tables.png)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/table-list?ref=mdl-readme)
+[View More](https://material-dashboard-pro-laravel-bs4.creative-tim.com/?ref=mdl-readme)
 
 ## Documentation
-The documentation for the Material Dashboard Laravel is hosted at our [website](https://material-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdpl-readme).
+The documentation for the Material Dashboard Laravel is hosted at our [website](https://material-dashboard-pro-laravel-bs4.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdpl-readme).
 
 ## File Structure
 ```
@@ -955,17 +955,17 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme>
-- Download Page: <https://www.creative-tim.com/product/material-dashboard-pro-laravel?ref=mdl-readme>
-- Documentation: <https://material-dashboard-pro-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdl-readme>
+- Demo: <https://material-dashboard-pro-laravel-bs4.creative-tim.com/?ref=mdl-readme>
+- Download Page: <https://www.creative-tim.com/product/material-dashboard-pro-laravel-bs4?ref=mdl-readme>
+- Documentation: <https://material-dashboard-pro-laravel-bs4.creative-tim.com/docs/getting-started/laravel-setup.html?ref=mdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-pro-laravel-bs4/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel.creative-tim.com/?ref=mdl-readme)
+| [![Material Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/thumb/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html?ref=mdl-readme) | [![Material Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/thumb/opt_mdp_laravel_thumbnail.jpg)](https://material-dashboard-pro-laravel-bs4.creative-tim.com/?ref=mdl-readme)
 
 ## Change log
 
